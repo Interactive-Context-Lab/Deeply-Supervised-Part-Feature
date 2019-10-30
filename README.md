@@ -85,7 +85,7 @@ Next, you can calculate TTR/FTR score with those extracted feature representatai
 ```
 
 # Demo Video
-[![](http://img.youtube.com/vi/k2OuiQrpVfQ/0.jpg)](http://www.youtube.com/watch?v=k2OuiQrpVfQ "")
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k2OuiQrpVfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # References
 - [Se-ResNeXt-50 pretrained model](https://github.com/HiKapok/TF-SENet)
