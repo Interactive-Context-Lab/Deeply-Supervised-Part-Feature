@@ -84,6 +84,8 @@ Next, you can calculate TTR/FTR score with those extracted feature representatai
 --normalize_feat
 ```
 
+# Demo Video
+[![](http://img.youtube.com/vi/k2OuiQrpVfQ/0.jpg)](http://www.youtube.com/watch?v=k2OuiQrpVfQ "")
 
 # References
 - [Se-ResNeXt-50 pretrained model](https://github.com/HiKapok/TF-SENet)
